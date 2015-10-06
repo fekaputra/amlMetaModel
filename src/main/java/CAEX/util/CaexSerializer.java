@@ -6,7 +6,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.eclipse.emf.common.util.URI;
-import org.eclipse.emf.ecore.EObject;
 import org.eclipse.emf.ecore.resource.Resource;
 import org.eclipse.emf.ecore.resource.ResourceSet;
 import org.eclipse.emf.ecore.util.BasicExtendedMetaData;
@@ -15,7 +14,6 @@ import org.eclipse.emf.ecore.util.ExtendedMetaData;
 import org.eclipse.emf.ecore.xmi.XMLResource;
 
 import CAEX.CAEXPackage;
-import CAEX.DocumentRoot;
 
 /**
  * Copyright (c) 2014 Vienna University of Technology.
